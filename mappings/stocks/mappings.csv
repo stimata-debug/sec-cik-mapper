@@ -33,6 +33,7 @@ CIK,Ticker,Name,Exchange
 0000006201,AAL,American Airlines Group Inc.,Nasdaq
 0000006207,AXR,Amrep Corp.,NYSE
 0000006281,ADI,Analog Devices Inc,Nasdaq
+0000006494,ANDR,Andrea Electronics Corp,OTC
 0000006845,APOG,"Apogee Enterprises, Inc.",Nasdaq
 0000006951,AMAT,Applied Materials Inc /De,Nasdaq
 0000006955,EPAC,Enerpac Tool Group Corp,NYSE
@@ -147,7 +148,7 @@ CIK,Ticker,Name,Exchange
 0000021665,CL,Colgate Palmolive Co,NYSE
 0000022356,CBSH,Commerce Bancshares Inc /Mo/,Nasdaq
 0000022444,CMC,Commercial Metals Co,NYSE
-0000022701,SUNE,Pineapple Energy Inc.,Nasdaq
+0000022701,SUNE,"Sunation Energy, Inc.",Nasdaq
 0000023194,CRK,Comstock Resources Inc,NYSE
 0000023197,CMTL,Comtech Telecommunications Corp /De/,Nasdaq
 0000023217,CAG,Conagra Brands Inc.,NYSE
@@ -437,7 +438,7 @@ CIK,Ticker,Name,Exchange
 0000071508,ENO,"Entergy New Orleans, Llc",NYSE
 0000071557,NUVR,"Nuvera Communications, Inc.",OTC
 0000071691,NYT,New York Times Co,NYSE
-0000071829,NR,Newpark Resources Inc,NYSE
+0000071829,NR,Npk International Inc.,NYSE
 0000072162,NL,Nl Industries Inc,NYSE
 0000072205,NOBH,Nobility Homes Inc,OTC
 0000072331,NDSN,Nordson Corp,Nasdaq
@@ -597,6 +598,7 @@ CIK,Ticker,Name,Exchange
 0000100493,TSN,"Tyson Foods, Inc.",NYSE
 0000100517,UAL,"United Airlines Holdings, Inc.",Nasdaq
 0000100591,AGX,Argan Inc,NYSE
+0000100716,UNAM,Unico American Corp,OTC
 0000100726,UFI,Unifi Inc,NYSE
 0000100826,UELMO,Union Electric Co,OTC
 0000100826,UEPCN,Union Electric Co,OTC
@@ -674,6 +676,7 @@ CIK,Ticker,Name,Exchange
 0000216851,PEO,"Adams Natural Resources Fund, Inc.",NYSE
 0000217346,TXT,Textron Inc,NYSE
 0000217410,UL,Unilever Plc,NYSE
+0000217410,ULVR,Unilever Plc,None
 0000217410,UNLYF,Unilever Plc,OTC
 0000225211,TGHI,Touchpoint Group Holdings Inc.,OTC
 0000230557,SIGI,Selective Insurance Group Inc,Nasdaq
@@ -777,6 +780,7 @@ CIK,Ticker,Name,Exchange
 0000320335,GL,Globe Life Inc.,NYSE
 0000320335,GL-PD,Globe Life Inc.,NYSE
 0000320340,CCRD,Corecard Corp,NYSE
+0000350403,PHIG,"Phi Group, Inc./De",OTC
 0000350698,AN,"Autonation, Inc.",NYSE
 0000350852,CTBI,Community Trust Bancorp Inc /Ky/,Nasdaq
 0000350894,SEIC,Sei Investments Co,Nasdaq
@@ -841,7 +845,6 @@ CIK,Ticker,Name,Exchange
 0000707179,ONBPP,Old National Bancorp /In/,Nasdaq
 0000707388,STRR,"Star Equity Holdings, Inc.",Nasdaq
 0000707388,STRRP,"Star Equity Holdings, Inc.",Nasdaq
-0000707511,RGRX,Regenerx Biopharmaceuticals Inc,OTC
 0000707549,LRCX,Lam Research Corp,Nasdaq
 0000707605,ASRV,Ameriserv Financial Inc /Pa/,Nasdaq
 0000708781,CASS,Cass Information Systems Inc,Nasdaq
@@ -945,6 +948,7 @@ CIK,Ticker,Name,Exchange
 0000724910,NVEC,Nve Corp /New/,Nasdaq
 0000725363,CVM,Cel Sci Corp,NYSE
 0000725394,DFCO,Dalrada Financial Corp,OTC
+0000725929,BTDG,"B2Digital, Inc.",OTC
 0000726601,CCBG,Capital City Bank Group Inc,Nasdaq
 0000726728,O,Realty Income Corp,NYSE
 0000726854,CHCO,City Holding Co,Nasdaq
@@ -1126,6 +1130,7 @@ CIK,Ticker,Name,Exchange
 0000786298,FGFH,Foresight Financial Group Inc,OTC
 0000786947,ACUR,"Acura Pharmaceuticals, Inc",None
 0000787253,NAII,Natural Alternatives International Inc,Nasdaq
+0000787496,UBYH,Ubuyholdings Inc,OTC
 0000788329,JOUT,Johnson Outdoors Inc,Nasdaq
 0000788611,NTRP,"Nexttrip, Inc.",Nasdaq
 0000788784,PEG,Public Service Enterprise Group Inc,NYSE
@@ -1242,6 +1247,7 @@ CIK,Ticker,Name,Exchange
 0000809844,CMU,Mfs High Yield Municipal Trust,NYSE
 0000810136,PLAB,Photronics Inc,Nasdaq
 0000810332,MESA,Mesa Air Group Inc,Nasdaq
+0000810509,NAVB,"Navidea Biopharmaceuticals, Inc.",OTC
 0000810766,CIK,"Credit Suisse Asset Management Income Fund, Inc.",NYSE
 0000810943,PCF,High Income Securities Fund,NYSE
 0000810958,CZNC,Citizens & Northern Corp,Nasdaq
@@ -1300,9 +1306,11 @@ CIK,Ticker,Name,Exchange
 0000819050,FRTX,"Fresh Tracks Therapeutics, Inc.",OTC
 0000819793,AIN,Albany International Corp /De/,NYSE
 0000819913,HALL,Hallmark Financial Services Inc,OTC
+0000819926,SEII,Sharing Economy International Inc.,OTC
 0000820027,AMP,Ameriprise Financial Inc,NYSE
 0000820313,APH,Amphenol Corp /De/,NYSE
 0000820318,COHR,Coherent Corp.,NYSE
+0000820608,QTXB,Quantrx Biomedical Corp,OTC
 0000820771,GFMH,Goliath Film & Media Holdings,OTC
 0000821002,GIII,G Iii Apparel Group Ltd /De/,Nasdaq
 0000821026,ANDE,"Andersons, Inc.",Nasdaq
@@ -1316,12 +1324,14 @@ CIK,Ticker,Name,Exchange
 0000822411,IMUC,"Eom Pharmaceutical Holdings, Inc.",OTC
 0000822416,PHM,Pultegroup Inc/Mi/,NYSE
 0000822663,IPAR,Interparfums Inc,Nasdaq
+0000822746,AMNI,"American Noble Gas, Inc.",OTC
 0000822818,CLH,Clean Harbors Inc,NYSE
 0000823277,CHSCL,Chs Inc,Nasdaq
 0000823277,CHSCM,Chs Inc,Nasdaq
 0000823277,CHSCN,Chs Inc,Nasdaq
 0000823277,CHSCO,Chs Inc,Nasdaq
 0000823277,CHSCP,Chs Inc,Nasdaq
+0000823546,RKFL,"Rocketfuel Blockchain, Inc.",OTC
 0000823768,WM,Waste Management Inc,NYSE
 0000824142,AAON,"Aaon, Inc.",Nasdaq
 0000824410,SASR,Sandy Spring Bancorp Inc,Nasdaq
@@ -1329,6 +1339,7 @@ CIK,Ticker,Name,Exchange
 0000825171,HHHEF,37 Capital Inc,OTC
 0000825202,FUND,Sprott Focus Trust Inc.,Nasdaq
 0000825313,AB,Alliancebernstein Holding L.P.,NYSE
+0000825322,XDSL,"Mphase Technologies, Inc.",OTC
 0000825324,GTIM,Good Times Restaurants Inc.,Nasdaq
 0000825345,HYB,New America High Income Fund Inc,NYSE
 0000825542,SMG,Scotts Miracle-Gro Co,NYSE
@@ -1340,6 +1351,7 @@ CIK,Ticker,Name,Exchange
 0000826735,MIN,Mfs Intermediate Income Trust,NYSE
 0000827052,EIX,Edison International,NYSE
 0000827054,MCHP,Microchip Technology Inc,Nasdaq
+0000827099,CPWR,Ocean Thermal Energy Corp,OTC
 0000827187,SNBR,Sleep Number Corp,Nasdaq
 0000827773,PPT,Putnam Premier Income Trust,NYSE
 0000827871,EGRX,"Eagle Pharmaceuticals, Inc.",OTC
@@ -1361,6 +1373,7 @@ CIK,Ticker,Name,Exchange
 0000831001,C-PN,Citigroup Inc,NYSE
 0000831259,FCX,Freeport-Mcmoran Inc,NYSE
 0000831378,LVPA,Lvpai Group Ltd,OTC
+0000831489,SCRH,Scores Holding Co Inc,OTC
 0000831609,CWLXF,C21 Investments Inc.,OTC
 0000831609,CXXIF,C21 Investments Inc.,OTC
 0000831641,TTEK,Tetra Tech Inc,Nasdaq
@@ -1394,6 +1407,7 @@ CIK,Ticker,Name,Exchange
 0000836690,ISSC,Innovative Solutions & Support Inc,Nasdaq
 0000837465,MODG,Topgolf Callaway Brands Corp.,NYSE
 0000837852,IDEX,"Ideanomics, Inc.",OTC
+0000837852,IDEXQ,"Ideanomics, Inc.",OTC
 0000838131,JMM,Nuveen Multi-Market Income Fund,NYSE
 0000838875,WVVI,Willamette Valley Vineyards Inc,Nasdaq
 0000838875,WVVIP,Willamette Valley Vineyards Inc,Nasdaq
@@ -1562,7 +1576,6 @@ CIK,Ticker,Name,Exchange
 0000874396,LCUT,"Lifetime Brands, Inc",Nasdaq
 0000874499,GPOR,Gulfport Energy Corp,NYSE
 0000874501,AMBC,Ambac Financial Group Inc,NYSE
-0000874710,AHPIQ,Allied Healthcare Products Inc,OTC
 0000874716,IDXX,Idexx Laboratories Inc /De,Nasdaq
 0000874761,AES,Aes Corp,NYSE
 0000874766,HIG,"Hartford Financial Services Group, Inc.",NYSE
@@ -1589,6 +1602,7 @@ CIK,Ticker,Name,Exchange
 0000877463,VKQ,Invesco Municipal Trust,NYSE
 0000877860,NHI,National Health Investors Inc,NYSE
 0000878518,TGB,Taseko Mines Ltd,NYSE
+0000878726,TUEMQ,Tuesday Morning Corp/De,OTC
 0000878927,ODFL,"Old Dominion Freight Line, Inc.",Nasdaq
 0000878932,EQS,"Equus Total Return, Inc.",NYSE
 0000879101,KIM,Kimco Realty Corp,NYSE
@@ -1602,6 +1616,7 @@ CIK,Ticker,Name,Exchange
 0000879535,DTF,Dtf Tax-Free Income 2028 Term Fund Inc,NYSE
 0000879585,ATNI,"Atn International, Inc.",Nasdaq
 0000879635,MPB,Mid Penn Bancorp Inc,Nasdaq
+0000879682,VIVE,"Viveve Medical, Inc.",OTC
 0000879764,TTE,Totalenergies Se,NYSE
 0000879764,TTFNF,Totalenergies Se,OTC
 0000879911,AERG,"Applied Energetics, Inc.",OTC
@@ -1645,7 +1660,6 @@ CIK,Ticker,Name,Exchange
 0000884144,ASUR,Asure Software Inc,Nasdaq
 0000884152,VMO,Invesco Municipal Opportunity Trust,NYSE
 0000884219,VVI,Viad Corp,NYSE
-0000884247,YVRLF,Liquid Media Group Ltd.,OTC
 0000884269,APT,Alpha Pro Tech Ltd,NYSE
 0000884380,KEGS,"1812 Brewing Company, Inc.",OTC
 0000884394,SPY,Spdr S&P 500 Etf Trust,NYSE
@@ -1691,6 +1705,7 @@ CIK,Ticker,Name,Exchange
 0000887028,RTNTF,Rio Tinto Ltd,OTC
 0000887153,SIM,"Grupo Simec, S.A.B. De C.V.",NYSE
 0000887225,KEP,Korea Electric Power Corp,NYSE
+0000887247,DMKPQ,Dmk Pharmaceuticals Corp,OTC
 0000887343,COLB,"Columbia Banking System, Inc.",Nasdaq
 0000887359,VCEL,Vericel Corp,Nasdaq
 0000887394,MQT,"Blackrock Muniyield Quality Fund Ii, Inc.",NYSE
@@ -1915,7 +1930,6 @@ CIK,Ticker,Name,Exchange
 0000912595,MAA,Mid America Apartment Communities Inc.,NYSE
 0000912595,MAA-PI,Mid America Apartment Communities Inc.,NYSE
 0000912603,RDUS,"Radius Recycling, Inc.",Nasdaq
-0000912607,MACE,Mace Security International Inc,OTC
 0000912615,URBN,Urban Outfitters Inc,Nasdaq
 0000912728,FWRD,Forward Air Corp,Nasdaq
 0000912766,LAUR,"Laureate Education, Inc.",Nasdaq
@@ -1984,6 +1998,7 @@ CIK,Ticker,Name,Exchange
 0000918646,EXP,Eagle Materials Inc,NYSE
 0000918965,SCSC,"Scansource, Inc.",Nasdaq
 0000919012,AEO,American Eagle Outfitters Inc,NYSE
+0000919175,SGMD,"Sugarmade, Inc.",OTC
 0000919567,RCG,"Renn Fund, Inc.",NYSE
 0000919864,FNWD,Finward Bancorp,Nasdaq
 0000919893,TDF,Templeton Dragon Fund Inc,NYSE
@@ -2017,6 +2032,7 @@ CIK,Ticker,Name,Exchange
 0000922358,FGPR,Ferrellgas Partners L P,OTC
 0000922358,FGPRB,Ferrellgas Partners L P,OTC
 0000922521,FALC,Falconstor Software Inc,OTC
+0000922612,SMIT,Schmitt Industries Inc,OTC
 0000922621,ERIE,Erie Indemnity Co,Nasdaq
 0000922864,AIV,Apartment Investment & Management Co,NYSE
 0000923120,GBX,Greenbrier Companies Inc,NYSE
@@ -2278,12 +2294,13 @@ CIK,Ticker,Name,Exchange
 0001004980,PCG-PH,Pg&E Corp,NYSE
 0001004980,PCG-PI,Pg&E Corp,NYSE
 0001004980,PCG-PX,Pg&E Corp,NYSE
+0001004980,PCGEP,Pg&E Corp,OTC
 0001004989,SGRP,"Spar Group, Inc.",Nasdaq
 0001005101,MGLD,"Marygold Companies, Inc.",NYSE
 0001005210,SPH,Suburban Propane Partners Lp,NYSE
 0001005229,CMCO,Columbus Mckinnon Corp,Nasdaq
 0001005284,OLED,Universal Display Corp \Pa\,Nasdaq
-0001005286,LFCR,"Lifecore Biomedical, Inc. De",Nasdaq
+0001005286,LFCR,"Lifecore Biomedical, Inc. \De\",Nasdaq
 0001005516,BOSC,Bos Better Online Solutions Ltd,Nasdaq
 0001005731,IDT,Idt Corp,NYSE
 0001005757,CSGS,Csg Systems International Inc,Nasdaq
@@ -2296,7 +2313,7 @@ CIK,Ticker,Name,Exchange
 0001006837,VATE,Innovate Corp.,NYSE
 0001007019,JVA,Coffee Holding Co Inc,Nasdaq
 0001007273,BKSC,Bank Of South Carolina Corp,OTC
-0001007587,KVHI,Kvh Industries Inc \De\,Nasdaq
+0001007587,KVHI,Kvh Industries Inc De,Nasdaq
 0001008586,STRM,Streamline Health Solutions Inc.,Nasdaq
 0001008653,EMAX,"Ecomax, Inc",OTC
 0001008654,TUPBQ,Tupperware Brands Corp,OTC
@@ -2309,7 +2326,7 @@ CIK,Ticker,Name,Exchange
 0001010086,SIGA,Siga Technologies Inc,Nasdaq
 0001010134,ICTSF,Icts International N V,OTC
 0001010470,PROV,Provident Financial Holdings Inc,Nasdaq
-0001011060,NORD,Nordicus Partners Corp,None
+0001011060,NORD,Nordicus Partners Corp,OTC
 0001011060,NORDD,Nordicus Partners Corp,OTC
 0001011509,AUMN,Golden Minerals Co,NYSE
 0001011662,GDSI,Global Digital Solutions Inc,OTC
@@ -2371,8 +2388,6 @@ CIK,Ticker,Name,Exchange
 0001020569,IRM,Iron Mountain Inc,NYSE
 0001020710,DXPE,Dxp Enterprises Inc,Nasdaq
 0001020859,UNFI,United Natural Foods Inc,NYSE
-0001021020,OEZVF,Osterreichische Elektrizitatswirtschafts /Fi,OTC
-0001021020,OEZVY,Osterreichische Elektrizitatswirtschafts /Fi,OTC
 0001021162,TGI,Triumph Group Inc,NYSE
 0001021435,HPTO,Hopto Inc.,OTC
 0001021561,NUS,"Nu Skin Enterprises, Inc.",NYSE
@@ -2449,6 +2464,7 @@ CIK,Ticker,Name,Exchange
 0001029142,DVAX,Dynavax Technologies Corp,Nasdaq
 0001029145,GOGL,Golden Ocean Group Ltd,Nasdaq
 0001029199,EEFT,"Euronet Worldwide, Inc.",Nasdaq
+0001029744,SOFO,Sonic Foundry Inc,OTC
 0001030192,IDR,"Idaho Strategic Resources, Inc.",NYSE
 0001030469,OFG,Ofg Bancorp,NYSE
 0001030471,UTSI,Utstarcom Holdings Corp.,Nasdaq
@@ -2557,7 +2573,9 @@ CIK,Ticker,Name,Exchange
 0001043604,JNPR,Juniper Networks Inc,NYSE
 0001043894,WOEN,Wolf Energy Services Inc.,OTC
 0001043961,PRPO,"Precipio, Inc.",Nasdaq
+0001044378,BIOCQ,Biocept Inc,OTC
 0001044777,OSPN,Onespan Inc.,Nasdaq
+0001044896,IDBHF,Industrias Bachoco S.A.B. De C.V.,OTC
 0001045450,EPR,Epr Properties,NYSE
 0001045450,EPR-PC,Epr Properties,NYSE
 0001045450,EPR-PE,Epr Properties,NYSE
@@ -2703,6 +2721,7 @@ CIK,Ticker,Name,Exchange
 0001067491,INFY,Infosys Ltd,NYSE
 0001067701,URI,"United Rentals, Inc.",NYSE
 0001067839,QQQ,"Invesco Qqq Trust, Series 1",Nasdaq
+0001067873,IPTK,As-Ip Tech Inc,OTC
 0001067983,BRK-A,Berkshire Hathaway Inc,NYSE
 0001067983,BRK-B,Berkshire Hathaway Inc,NYSE
 0001068689,ATDS,"Data443 Risk Mitigation, Inc.",OTC
@@ -2810,6 +2829,7 @@ CIK,Ticker,Name,Exchange
 0001084267,MOBQW,"Mobiquity Technologies, Inc.",OTC
 0001084475,NIHK,"Video River Networks, Inc.",OTC
 0001084554,LTBR,Lightbridge Corp,Nasdaq
+0001084577,CYRNQ,Cyren Ltd.,OTC
 0001084765,RGP,"Resources Connection, Inc.",Nasdaq
 0001084869,FLWS,1 800 Flowers Com Inc,Nasdaq
 0001084961,ECPG,Encore Capital Group Inc,Nasdaq
@@ -2833,6 +2853,7 @@ CIK,Ticker,Name,Exchange
 0001087711,SNTUF,Santander Uk Plc,OTC
 0001087711,STNDF,Santander Uk Plc,OTC
 0001087786,NXJ,Nuveen New Jersey Quality Municipal Income Fund,NYSE
+0001088005,NXMR,Nextmart Inc.,OTC
 0001088034,USIO,"Usio, Inc.",Nasdaq
 0001088413,GLGI,"Greystone Logistics, Inc.",OTC
 0001088638,MMND,"Mastermind, Inc.",OTC
@@ -2926,6 +2947,7 @@ CIK,Ticker,Name,Exchange
 0001101433,QMCI,Quotemedia Inc,OTC
 0001101680,DZSI,Dzs Inc.,OTC
 0001102238,ARL,American Realty Investors Inc,NYSE
+0001102942,INQR,"Innovaqor, Inc.",OTC
 0001102993,LPSN,Liveperson Inc,Nasdaq
 0001103090,RSCF,"Reflect Scientific, Inc.",OTC
 0001103795,QSEP,"Qs Energy, Inc.",OTC
@@ -2935,7 +2957,6 @@ CIK,Ticker,Name,Exchange
 0001104023,GEMZ,Gemxx Corp.,OTC
 0001104038,VRME,"Verifyme, Inc.",Nasdaq
 0001104038,VRMEW,"Verifyme, Inc.",Nasdaq
-0001104462,NCRE,"Colambda Technologies, Inc.",OTC
 0001104485,NOG,"Northern Oil & Gas, Inc.",NYSE
 0001104506,INSM,Insmed Inc,Nasdaq
 0001104657,MTRN,Materion Corp,NYSE
@@ -2962,7 +2983,6 @@ CIK,Ticker,Name,Exchange
 0001109354,BRKR,Bruker Corp,Nasdaq
 0001109357,EXC,Exelon Corp,Nasdaq
 0001109486,EDXC,Endexx Corp,OTC
-0001109504,EPWCF,Empower Clinics Inc.,OTC
 0001110452,AFLYY,Air France-Klm /Fi,OTC
 0001110452,AFRAF,Air France-Klm /Fi,OTC
 0001110607,KLNG,"Koil Energy Solutions, Inc.",OTC
@@ -2975,6 +2995,7 @@ CIK,Ticker,Name,Exchange
 0001111711,NI,Nisource Inc.,NYSE
 0001111741,DYNR,"Dynaresource, Inc.",OTC
 0001111928,IPGP,Ipg Photonics Corp,Nasdaq
+0001112748,HAZH,Haz Holdings Inc,OTC
 0001113148,INFIQ,"Infinity Pharmaceuticals, Inc.",OTC
 0001113169,TROW,Price T Rowe Group Inc,Nasdaq
 0001113232,ACLS,Axcelis Technologies Inc,Nasdaq
@@ -3032,8 +3053,10 @@ CIK,Ticker,Name,Exchange
 0001119190,HMBL,"Humbl, Inc.",OTC
 0001119639,PBR,Petrobras - Petroleo Brasileiro Sa,NYSE
 0001119639,PBR-A,Petrobras - Petroleo Brasileiro Sa,NYSE
+0001119643,NPHC,Nutra Pharma Corp,OTC
 0001119769,CRNT,Ceragon Networks Ltd,Nasdaq
 0001119774,CGEN,Compugen Ltd,Nasdaq
+0001119897,PCTL,Pct Ltd,OTC
 0001120193,NDAQ,"Nasdaq, Inc.",Nasdaq
 0001120370,BWEN,"Broadwind, Inc.",Nasdaq
 0001120914,PDFS,Pdf Solutions Inc,Nasdaq
@@ -3042,6 +3065,7 @@ CIK,Ticker,Name,Exchange
 0001121404,SNYNF,Sanofi,OTC
 0001121484,OIS,"Oil States International, Inc",NYSE
 0001121702,YTEN,"Yield10 Bioscience, Inc.",OTC
+0001121702,YTENQ,"Yield10 Bioscience, Inc.",OTC
 0001121788,GRMN,Garmin Ltd,NYSE
 0001121795,GHST,Ghst World Inc.,OTC
 0001122020,PCSV,"Pcs Edventures!, Inc.",OTC
@@ -3071,6 +3095,7 @@ CIK,Ticker,Name,Exchange
 0001125259,CUKPF,Carnival Plc,OTC
 0001125345,MGNX,Macrogenics Inc,Nasdaq
 0001125376,ENSG,"Ensign Group, Inc",Nasdaq
+0001126115,LZGI,"Lzg International, Inc.",OTC
 0001126234,LUMO,"Lumos Pharma, Inc.",Nasdaq
 0001126328,PFG,Principal Financial Group Inc,Nasdaq
 0001126741,GSIT,Gsi Technology Inc,Nasdaq
@@ -3379,7 +3404,7 @@ CIK,Ticker,Name,Exchange
 0001185348,PRAA,Pra Group Inc,Nasdaq
 0001187953,CELZ,"Creative Medical Technology Holdings, Inc.",Nasdaq
 0001189740,HPF,John Hancock Preferred Income Fund Ii,NYSE
-0001190370,IVDN,Innovative Designs Inc,None
+0001190370,IVDN,Innovative Designs Inc,OTC
 0001190723,TNRSF,Tenaris Sa,OTC
 0001190723,TS,Tenaris Sa,NYSE
 0001190935,PTY,Pimco Corporate & Income Opportunity Fund,NYSE
@@ -3396,7 +3421,6 @@ CIK,Ticker,Name,Exchange
 0001200375,CDXS,"Codexis, Inc.",Nasdaq
 0001201792,APEI,American Public Education Inc,Nasdaq
 0001203464,IAG,Iamgold Corp,NYSE
-0001205059,REPCF,Replicel Life Sciences Inc.,OTC
 0001205181,GPFT,"Grapefruit Usa, Inc",OTC
 0001205922,VCNX,"Vaccinex, Inc.",Nasdaq
 0001206264,TPX,"Tempur Sealy International, Inc.",NYSE
@@ -3430,6 +3454,7 @@ CIK,Ticker,Name,Exchange
 0001222719,CHY,Calamos Convertible & High Income Fund,Nasdaq
 0001222922,EVV,Eaton Vance Ltd Duration Income Fund,NYSE
 0001223026,MHI,"Pioneer Municipal High Income Fund, Inc.",NYSE
+0001223389,CONNQ,Conns Inc,OTC
 0001224133,MCHX,Marchex Inc,Nasdaq
 0001224450,RNP,Cohen & Steers Reit & Preferred & Income Fund Inc,NYSE
 0001224608,CNO,"Cno Financial Group, Inc.",NYSE
@@ -3525,7 +3550,7 @@ CIK,Ticker,Name,Exchange
 0001263994,UTG,Reaves Utility Income Fund,NYSE
 0001264136,WF,Woori Financial Group Inc.,NYSE
 0001265131,HTH,Hilltop Holdings Inc.,NYSE
-0001265521,TRFE,"Polomar Health Services, Inc.",None
+0001265521,PMHS,"Polomar Health Services, Inc.",None
 0001265521,TRFED,"Polomar Health Services, Inc.",OTC
 0001266585,NMZ,Nuveen Municipal High Income Opportunity Fund,NYSE
 0001266806,VANI,"Vivani Medical, Inc.",Nasdaq
@@ -3536,7 +3561,6 @@ CIK,Ticker,Name,Exchange
 0001267395,AHL-PD,Aspen Insurance Holdings Ltd,NYSE
 0001267395,AHL-PE,Aspen Insurance Holdings Ltd,NYSE
 0001267395,AHL-PF,Aspen Insurance Holdings Ltd,NYSE
-0001267395,ASIHF,Aspen Insurance Holdings Ltd,OTC
 0001267565,COLL,"Collegium Pharmaceutical, Inc",Nasdaq
 0001267813,MRNS,"Marinus Pharmaceuticals, Inc.",Nasdaq
 0001267902,WIW,Western Asset Inflation-Linked Opportunities & Income Fund,NYSE
@@ -3595,6 +3619,7 @@ CIK,Ticker,Name,Exchange
 0001279967,CRARY,Credit Agricole S A,OTC
 0001280058,BLKB,Blackbaud Inc,Nasdaq
 0001280263,AMBA,Ambarella Inc,Nasdaq
+0001280396,VTNA,Vetanova Inc.,OTC
 0001280452,MPWR,Monolithic Power Systems Inc,Nasdaq
 0001280776,IMUX,"Immunic, Inc.",Nasdaq
 0001280784,HCXY,"Hercules Capital, Inc.",NYSE
@@ -3622,7 +3647,6 @@ CIK,Ticker,Name,Exchange
 0001283337,KTN,Structured Products Corp Cred Enhance Corts Tr For Aon Cap A,NYSE
 0001283464,KTH,Structured Products Corp Corts Tr For Peco Energy Cap Tr Iii,NYSE
 0001283699,TMUS,"T-Mobile Us, Inc.",Nasdaq
-0001283789,RYNL,"Reynaldo'S Mexican Food Company, Inc.",OTC
 0001284143,JBK,Lehman Abs Corp Goldman Sachs Cap 1 Sec Backed Ser 2004-6,NYSE
 0001284237,ABCFF,Abacus Mining & Exploration Corp,OTC
 0001284454,YBCN,Yong Bai Chao New Retail Corp,OTC
@@ -3640,6 +3664,7 @@ CIK,Ticker,Name,Exchange
 0001286405,GJH,Strats Sm Trust For U S Cell Corp Sec Series 2004 6,NYSE
 0001286459,AFOM,All For One Media Corp.,OTC
 0001286613,LINC,Lincoln Educational Services Corp,Nasdaq
+0001286648,GZIC,Gz6G Technologies Corp.,OTC
 0001286681,DPZ,Dominos Pizza Inc,NYSE
 0001286973,USAS,Americas Gold & Silver Corp,NYSE
 0001287032,PSEC,Prospect Capital Corp,Nasdaq
@@ -3667,7 +3692,7 @@ CIK,Ticker,Name,Exchange
 0001289688,JCYGY,Jardine Cycle & Carriage Ltd.,OTC
 0001289848,HURN,Huron Consulting Group Inc.,Nasdaq
 0001289850,NURO,"Neurometrix, Inc.",Nasdaq
-0001289868,MCN,Madison Covered Call & Equity Strategy Fund,NYSE
+0001289868,MCN,Xai Madison Equity Premium Income Fund,NYSE
 0001289877,SFL,Sfl Corp Ltd.,NYSE
 0001289945,SPOK,"Spok Holdings, Inc",Nasdaq
 0001290109,LPL,"Lg Display Co., Ltd.",NYSE
@@ -3744,6 +3769,8 @@ CIK,Ticker,Name,Exchange
 0001304409,AHNR,Athena Gold Corp,OTC
 0001304421,CNSL,"Consolidated Communications Holdings, Inc.",Nasdaq
 0001304492,ATEX,Anterix Inc.,Nasdaq
+0001304741,CNGT,Cannagistics Inc.,OTC
+0001305323,ZVOI,Zovio Inc,OTC
 0001305767,PHD,"Pioneer Floating Rate Fund, Inc.",NYSE
 0001306550,BGR,Blackrock Energy & Resources Trust,NYSE
 0001306830,CE,Celanese Corp,NYSE
@@ -3815,10 +3842,10 @@ CIK,Ticker,Name,Exchange
 0001321517,SRNW,Stratos Renewables Corp,OTC
 0001321655,PLTR,Palantir Technologies Inc.,Nasdaq
 0001321732,PEN,Penumbra Inc,NYSE
-0001321741,GAIN,Gladstone Investment Corporationde,Nasdaq
-0001321741,GAINL,Gladstone Investment Corporationde,Nasdaq
-0001321741,GAINN,Gladstone Investment Corporationde,Nasdaq
-0001321741,GAINZ,Gladstone Investment Corporationde,Nasdaq
+0001321741,GAIN,Gladstone Investment Corporation\De,Nasdaq
+0001321741,GAINL,Gladstone Investment Corporation\De,Nasdaq
+0001321741,GAINN,Gladstone Investment Corporation\De,Nasdaq
+0001321741,GAINZ,Gladstone Investment Corporation\De,Nasdaq
 0001321828,DCLT,Data Call Technologies,OTC
 0001321834,TNFA,"Tnf Pharmaceuticals, Inc.",Nasdaq
 0001321851,SEED,Origin Agritech Ltd,Nasdaq
@@ -3831,6 +3858,7 @@ CIK,Ticker,Name,Exchange
 0001323885,ATRC,"Atricure, Inc.",Nasdaq
 0001324404,CF,"Cf Industries Holdings, Inc.",NYSE
 0001324424,EXPE,"Expedia Group, Inc.",Nasdaq
+0001324736,HENC,Hero Technologies Inc.,OTC
 0001324759,HGYN,Hong Yuan Holding Group,OTC
 0001324948,RBC,Rbc Bearings Inc,NYSE
 0001325618,IRMD,Iradimed Corp,Nasdaq
@@ -3935,6 +3963,7 @@ CIK,Ticker,Name,Exchange
 0001341318,LSBK,"Lake Shore Bancorp, Inc.",Nasdaq
 0001341335,FSM,Fortuna Mining Corp.,NYSE
 0001341439,ORCL,Oracle Corp,NYSE
+0001341726,GSPE,"Gulfslope Energy, Inc.",OTC
 0001341766,CELH,"Celsius Holdings, Inc.",Nasdaq
 0001342338,HIMX,"Himax Technologies, Inc.",Nasdaq
 0001342423,LMNR,Limoneira Co,Nasdaq
@@ -3962,6 +3991,7 @@ CIK,Ticker,Name,Exchange
 0001346655,CMGO,"Cmg Holdings Group, Inc.",OTC
 0001346830,CARA,"Cara Therapeutics, Inc.",Nasdaq
 0001346917,GNTOF,Gentor Resources Inc.,OTC
+0001347123,EBRCZ,"Ebr Systems, Inc.",OTC
 0001347178,VNDA,Vanda Pharmaceuticals Inc.,Nasdaq
 0001347242,LIPO,Lipella Pharmaceuticals Inc.,Nasdaq
 0001347426,BMA,Macro Bank Inc.,NYSE
@@ -3975,6 +4005,7 @@ CIK,Ticker,Name,Exchange
 0001349436,SD,Sandridge Energy Inc,NYSE
 0001349706,TOGI,"Turnongreen, Inc.",OTC
 0001349706,TOGIW,"Turnongreen, Inc.",OTC
+0001350073,ICNB,"Iconic Brands, Inc.",OTC
 0001350102,ASTI,"Ascent Solar Technologies, Inc.",Nasdaq
 0001350156,PAXH,Preaxia Health Care Payment Systems Inc.,OTC
 0001350593,MWA,"Mueller Water Products, Inc.",NYSE
@@ -3997,6 +4028,7 @@ CIK,Ticker,Name,Exchange
 0001355096,QRTEP,"Qurate Retail, Inc.",Nasdaq
 0001355250,IPIX,Innovation Pharmaceuticals Inc.,OTC
 0001355444,ERJ,Embraer S.A.,NYSE
+0001355677,MXSG,Mexus Gold Us,OTC
 0001355736,AVCRF,Avricore Health Inc.,OTC
 0001355790,ISCO,International Stem Cell Corp,OTC
 0001355839,PALT,"Paltalk, Inc.",Nasdaq
@@ -4021,6 +4053,7 @@ CIK,Ticker,Name,Exchange
 0001358190,ITP,"It Tech Packaging, Inc.",NYSE
 0001358633,SNBH,Sentient Brands Holdings Inc.,OTC
 0001358654,RMESF,"Red Metal Resources, Ltd.",OTC
+0001358656,MILC,Millennium Sustainable Ventures Corp.,OTC
 0001359519,SVNDF,Seven & I Holdings Co Ltd,OTC
 0001359519,SVNDY,Seven & I Holdings Co Ltd,OTC
 0001359841,HBI,Hanesbrands Inc.,NYSE
@@ -4046,7 +4079,6 @@ CIK,Ticker,Name,Exchange
 0001363829,ESGR,Enstar Group Ltd,Nasdaq
 0001363829,ESGRO,Enstar Group Ltd,Nasdaq
 0001363829,ESGRP,Enstar Group Ltd,Nasdaq
-0001363958,WCRS,"Western Capital Resources, Inc.",OTC
 0001364125,WRN,Western Copper & Gold Corp,NYSE
 0001364250,DEI,Douglas Emmett Inc,NYSE
 0001364479,HRI,Herc Holdings Inc,NYSE
@@ -4087,6 +4119,8 @@ CIK,Ticker,Name,Exchange
 0001371489,III,Information Services Group Inc.,Nasdaq
 0001371782,MVO,Mv Oil Trust,NYSE
 0001372020,GLDD,Great Lakes Dredge & Dock Corp,Nasdaq
+0001372114,KLYG,"Kelyniam Global, Inc.",OTC
+0001372183,NXTP,Nextplay Technologies Inc.,OTC
 0001372299,OCGN,"Ocugen, Inc.",Nasdaq
 0001372514,KPHMW,Kiora Pharmaceuticals Inc,OTC
 0001372514,KPRX,Kiora Pharmaceuticals Inc,Nasdaq
@@ -4144,6 +4178,8 @@ CIK,Ticker,Name,Exchange
 0001378992,BERY,"Berry Global Group, Inc.",NYSE
 0001379006,NNVC,"Nanoviricides, Inc.",NYSE
 0001379041,EIG,"Employers Holdings, Inc.",NYSE
+0001379043,XFCI,"Xtreme Fighting Championships, Inc.",OTC
+0001379245,EBWK,"Enigma-Bulwark, Ltd",OTC
 0001379384,BTZ,Blackrock Credit Allocation Income Trust,NYSE
 0001379400,AOD,Abrdn Total Dynamic Dividend Fund,NYSE
 0001379438,EXG,Eaton Vance Tax-Managed Global Diversified Equity Income Fund,NYSE
@@ -4175,6 +4211,7 @@ CIK,Ticker,Name,Exchange
 0001383441,NIE,Virtus Equity & Convertible Income Fund,NYSE
 0001383650,CQP,"Cheniere Energy Partners, L.P.",NYSE
 0001384101,VCYT,"Veracyte, Inc.",Nasdaq
+0001384135,LBTI,"Lithium & Boron Technology, Inc.",OTC
 0001384195,REI,"Ring Energy, Inc.",NYSE
 0001384365,RDAR,"Raadr, Inc.",OTC
 0001384905,RNG,"Ringcentral, Inc.",NYSE
@@ -4198,10 +4235,12 @@ CIK,Ticker,Name,Exchange
 0001388126,HNW,"Pioneer Diversified High Income Fund, Inc.",NYSE
 0001388141,EDD,"Morgan Stanley Emerging Markets Domestic Debt Fund, Inc.",NYSE
 0001388295,ONEI,Onemeta Inc.,OTC
+0001388319,USRM,"U.S. Stem Cell, Inc.",OTC
 0001388320,ATNM,"Actinium Pharmaceuticals, Inc.",NYSE
 0001388658,IRTC,"Irhythm Technologies, Inc.",Nasdaq
 0001389002,MRIN,Marin Software Inc,Nasdaq
 0001389050,AROC,"Archrock, Inc.",NYSE
+0001389067,TTCM,Tautachrome Inc.,OTC
 0001389170,TRGP,Targa Resources Corp.,NYSE
 0001389207,GFASY,Gafisa S.A.,OTC
 0001389207,GFSAY,Gafisa S.A.,OTC
@@ -4242,6 +4281,7 @@ CIK,Ticker,Name,Exchange
 0001393311,PSA-PR,Public Storage,NYSE
 0001393311,PSA-PS,Public Storage,NYSE
 0001393434,OCUL,"Ocular Therapeutix, Inc",Nasdaq
+0001393540,IGEN,Igen Networks Corp,OTC
 0001393548,CLIS,Clickstream Corp,OTC
 0001393584,AMWL,American Well Corp,NYSE
 0001393612,DFS,Discover Financial Services,NYSE
@@ -4283,6 +4323,7 @@ CIK,Ticker,Name,Exchange
 0001398805,BEEM,Beam Global,Nasdaq
 0001398972,ERDCF,Erdene Resource Development Corp,OTC
 0001398987,HOUS,Anywhere Real Estate Inc.,NYSE
+0001399306,BRBL,Brewbilt Brewing Co,OTC
 0001399352,WARM,"Cool Technologies, Inc.",OTC
 0001399520,STKS,"One Group Hospitality, Inc.",Nasdaq
 0001400118,SGMT,Sagimet Biosciences Inc.,Nasdaq
@@ -4309,7 +4350,6 @@ CIK,Ticker,Name,Exchange
 0001402371,ELRA,"Elray Resources, Inc.",OTC
 0001402388,WFG,"West Fraser Timber Co., Ltd",NYSE
 0001402436,SSNC,Ss&C Technologies Holdings Inc,Nasdaq
-0001402479,MDVLQ,"Medavail Holdings, Inc.",OTC
 0001402829,ORN,Orion Group Holdings Inc,NYSE
 0001403161,V,Visa Inc.,NYSE
 0001403475,BMRC,Bank Of Marin Bancorp,Nasdaq
@@ -4346,7 +4386,7 @@ CIK,Ticker,Name,Exchange
 0001407623,ROIC,Retail Opportunity Investments Corp,Nasdaq
 0001407704,BOTY,"Lingerie Fighting Championships, Inc.",OTC
 0001407878,DLOC,"Digital Locations, Inc.",OTC
-0001407973,SONX,"Sonendo, Inc.",None
+0001407973,SONX,"Sonendo, Inc.",OTC
 0001407973,SONXD,"Sonendo, Inc.",OTC
 0001408057,ICCRW,Icoreconnect Inc.,OTC
 0001408057,ICNP,Icoreconnect Inc.,OTC
@@ -4364,6 +4404,7 @@ CIK,Ticker,Name,Exchange
 0001409197,BSPK,"Bespoke Extracts, Inc.",OTC
 0001409269,VERO,Venus Concept Inc.,Nasdaq
 0001409375,OESX,"Orion Energy Systems, Inc.",Nasdaq
+0001409446,NHMD,Nate'S Food Co.,OTC
 0001409493,CIM,Chimera Investment Corp,NYSE
 0001409493,CIM-PA,Chimera Investment Corp,NYSE
 0001409493,CIM-PB,Chimera Investment Corp,NYSE
@@ -4392,6 +4433,7 @@ CIK,Ticker,Name,Exchange
 0001411579,AMC,"Amc Entertainment Holdings, Inc.",NYSE
 0001411685,VTGN,"Vistagen Therapeutics, Inc.",Nasdaq
 0001411688,TCS,"Container Store Group, Inc.",NYSE
+0001411688,TCSG,"Container Store Group, Inc.",OTC
 0001411690,BNGO,"Bionano Genomics, Inc.",Nasdaq
 0001411906,AMPE,"Ampio Pharmaceuticals, Inc.",OTC
 0001412095,TROO,"Troops, Inc. /Cayman Islands/",Nasdaq
@@ -4415,6 +4457,7 @@ CIK,Ticker,Name,Exchange
 0001413891,HWNI,"High Wire Networks, Inc.",OTC
 0001413898,DALN,Dallasnews Corp,Nasdaq
 0001413909,DSGT,Dsg Global Inc.,OTC
+0001414043,FDBL,"Friendable, Inc.",OTC
 0001414382,CLEV,Concrete Leveling Systems Inc,OTC
 0001414767,NCPL,Netcapital Inc.,Nasdaq
 0001414767,NCPLW,Netcapital Inc.,Nasdaq
@@ -4531,6 +4574,7 @@ CIK,Ticker,Name,Exchange
 0001430162,CSAN,Cosan S.A.,NYSE
 0001430300,GWSO,"Global Warming Solutions, Inc.",OTC
 0001430306,TNXP,Tonix Pharmaceuticals Holding Corp.,Nasdaq
+0001430523,VRUS,"Verus International, Inc.",OTC
 0001430723,SFBS,"Servisfirst Bancshares, Inc.",NYSE
 0001430725,GSL,"Global Ship Lease, Inc.",NYSE
 0001430725,GSL-PB,"Global Ship Lease, Inc.",NYSE
@@ -4608,6 +4652,7 @@ CIK,Ticker,Name,Exchange
 0001438654,RDEIY,Red Electrica Corporacion Sa/Adr,OTC
 0001438893,GNT,"Gamco Natural Resources, Gold & Income Trust",NYSE
 0001438893,GNT-PA,"Gamco Natural Resources, Gold & Income Trust",NYSE
+0001438901,FLES,"Auto Parts 4Less Group, Inc.",OTC
 0001438943,RNGE,"Range Impact, Inc.",OTC
 0001439095,MRC,Mrc Global Inc.,NYSE
 0001439124,EBR,Brazilian Electric Power Co,NYSE
@@ -4622,6 +4667,7 @@ CIK,Ticker,Name,Exchange
 0001440153,BKUH,"Bakhu Holdings, Corp.",None
 0001440799,MMEX,Mmex Resources Corp,OTC
 0001440972,LAAC,Lithium Americas (Argentina) Corp.,NYSE
+0001441082,HLCO,Healing Co Inc.,OTC
 0001441236,CLW,Clearwater Paper Corp,NYSE
 0001441683,APPN,Appian Corp,Nasdaq
 0001441816,MDB,"Mongodb, Inc.",Nasdaq
@@ -4646,6 +4692,7 @@ CIK,Ticker,Name,Exchange
 0001443669,PRLB,Proto Labs Inc,NYSE
 0001443863,BICX,Biocorrx Inc.,OTC
 0001444192,GRCE,"Grace Therapeutics, Inc.",Nasdaq
+0001444307,ONCSQ,Oncosec Medical Inc,OTC
 0001444380,NVRO,Nevro Corp,NYSE
 0001444403,CGAC,Code Green Apparel Corp,OTC
 0001444406,EC,Ecopetrol S.A.,NYSE
@@ -4752,6 +4799,7 @@ CIK,Ticker,Name,Exchange
 0001456346,FNV,Franco Nevada Corp,NYSE
 0001456772,OPI,Office Properties Income Trust,Nasdaq
 0001456772,OPINL,Office Properties Income Trust,Nasdaq
+0001456857,MJNE,"Mj Holdings, Inc.",OTC
 0001458023,FKST,"Flowerkist Skin Care & Cosmetics, Inc.",OTC
 0001458057,ORMNF,Orex Minerals Inc,OTC
 0001458412,CFB,"Crossfirst Bankshares, Inc.",Nasdaq
@@ -4823,7 +4871,6 @@ CIK,Ticker,Name,Exchange
 0001467808,CORBF,Global Cord Blood Corp,OTC
 0001467845,KUSA,"Kashin, Inc.",OTC
 0001467858,GM,General Motors Co,NYSE
-0001467913,RNWR,808 Renewable Energy Corp,OTC
 0001468091,VEON,Veon Ltd.,Nasdaq
 0001468174,H,Hyatt Hotels Corp,NYSE
 0001468327,RENT,"Rent The Runway, Inc.",Nasdaq
@@ -4910,8 +4957,8 @@ CIK,Ticker,Name,Exchange
 0001477720,ASAN,"Asana, Inc.",NYSE
 0001477815,SG,"Sweetgreen, Inc.",NYSE
 0001477845,ANVS,"Annovis Bio, Inc.",NYSE
-0001477960,CBBBD,Catalyst Crew Technologies Corp.,OTC
 0001477960,CCTC,Catalyst Crew Technologies Corp.,OTC
+0001478069,CFRXQ,Contrafect Corp,OTC
 0001478102,DMO,Western Asset Mortgage Opportunity Fund Inc.,NYSE
 0001478242,IQV,Iqvia Holdings Inc.,NYSE
 0001478320,ADPT,Adaptive Biotechnologies Corp,Nasdaq
@@ -4968,6 +5015,8 @@ CIK,Ticker,Name,Exchange
 0001486452,MASN,"Maison Luxe, Inc.",OTC
 0001486957,BWXT,"Bwx Technologies, Inc.",NYSE
 0001487091,QWTR,"Quest Water Global, Inc.",OTC
+0001487139,SKLTF,Seek Ltd,OTC
+0001487139,SKLTY,Seek Ltd,OTC
 0001487197,BRFH,Barfresh Food Group Inc.,Nasdaq
 0001487198,ASPU,"Aspen Group, Inc.",OTC
 0001487428,HRZN,Horizon Technology Finance Corp,Nasdaq
@@ -5015,8 +5064,7 @@ CIK,Ticker,Name,Exchange
 0001493225,NFBK,"Northfield Bancorp, Inc.",Nasdaq
 0001493594,MTSI,"Macom Technology Solutions Holdings, Inc.",Nasdaq
 0001493683,BBN,Blackrock Taxable Municipal Bond Trust,NYSE
-0001493712,CMXCD,Stimcell Energetics Inc.,OTC
-0001493712,STME,Stimcell Energetics Inc.,None
+0001493712,STME,Stimcell Energetics Inc.,OTC
 0001493761,HEAR,Turtle Beach Corp,Nasdaq
 0001494259,CARG,"Cargurus, Inc.",Nasdaq
 0001494413,TWOH,Two Hands Corp,OTC
@@ -5070,7 +5118,6 @@ CIK,Ticker,Name,Exchange
 0001498148,AITX,Artificial Intelligence Technology Solutions Inc.,OTC
 0001498233,CPTN,"Cepton, Inc.",Nasdaq
 0001498233,CPTNW,"Cepton, Inc.",Nasdaq
-0001498291,DCAC,"Daniels Corporate Advisory Company, Inc.",OTC
 0001498372,IWAL,Iwallet Corp,OTC
 0001498382,HURA,"Tuhura Biosciences, Inc./Nv",Nasdaq
 0001498403,BLRX,Biolinerx Ltd.,Nasdaq
@@ -5079,6 +5126,7 @@ CIK,Ticker,Name,Exchange
 0001498710,SAVEQ,"Spirit Airlines, Inc.",OTC
 0001499275,SANP,Santo Mining Corp.,OTC
 0001499422,RBB,Rbb Bancorp,Nasdaq
+0001499494,DXFFD,Dunxin Financial Holdings Ltd,OTC
 0001499494,DXFFY,Dunxin Financial Holdings Ltd,OTC
 0001499505,AGRO,Adecoagro S.A.,NYSE
 0001499543,NOAH,Noah Holdings Ltd,NYSE
@@ -5155,6 +5203,7 @@ CIK,Ticker,Name,Exchange
 0001506492,NUWEW,"Nuwellis, Inc.",OTC
 0001506721,BAFBF,Balfour Beatty Plc/Adr,OTC
 0001506721,BLFBY,Balfour Beatty Plc/Adr,OTC
+0001506814,JPEX,Jpx Global Inc.,OTC
 0001506928,AVGR,Avinger Inc,Nasdaq
 0001506929,VRDR,"Verde Resources, Inc.",OTC
 0001506983,GCTK,"Glucotrack, Inc.",Nasdaq
@@ -5162,7 +5211,6 @@ CIK,Ticker,Name,Exchange
 0001507605,MARA,"Mara Holdings, Inc.",Nasdaq
 0001507957,IPWR,Ideal Power Inc.,Nasdaq
 0001508348,ACAN,"Americann, Inc.",OTC
-0001508381,BNKL,Bionik Laboratories Corp.,OTC
 0001508475,VNET,"Vnet Group, Inc.",Nasdaq
 0001508478,ARCO,Arcos Dorados Holdings Inc.,NYSE
 0001508655,TSLX,"Sixth Street Specialty Lending, Inc.",NYSE
@@ -5178,12 +5226,15 @@ CIK,Ticker,Name,Exchange
 0001509646,FENG,Phoenix New Media Ltd,NYSE
 0001509705,NZERF,New Zealand Energy Corp.,OTC
 0001509745,LPTX,"Leap Therapeutics, Inc.",Nasdaq
+0001509786,GKIN,Guskin Gold Corp.,OTC
 0001509957,CANB,Can B Corp,OTC
 0001509991,KOS,Kosmos Energy Ltd.,NYSE
+0001510247,LFAP,"Lgbtq Loyalty Holdings, Inc.",OTC
 0001510295,MPC,Marathon Petroleum Corp,NYSE
 0001510524,GYST,"Graystone Company, Inc.",OTC
 0001510593,XNET,Xunlei Ltd,Nasdaq
 0001510599,PDI,Pimco Dynamic Income Fund,NYSE
+0001510832,BOPO,Biopower Operations Corp,OTC
 0001510964,CVSI,"Cv Sciences, Inc.",OTC
 0001511337,RLJ,Rlj Lodging Trust,NYSE
 0001511337,RLJ-PA,Rlj Lodging Trust,NYSE
@@ -5310,6 +5361,7 @@ CIK,Ticker,Name,Exchange
 0001526243,PPTA,Perpetua Resources Corp.,Nasdaq
 0001526329,TTP,"Tortoise Pipeline & Energy Fund, Inc.",NYSE
 0001526520,TRIP,"Tripadvisor, Inc.",Nasdaq
+0001527102,EGSE,"Evergreen Sustainable Enterprises, Inc.",OTC
 0001527166,CG,Carlyle Group Inc.,Nasdaq
 0001527166,CGABL,Carlyle Group Inc.,Nasdaq
 0001527352,NXL,"Nexalin Technology, Inc.",Nasdaq
@@ -5519,7 +5571,7 @@ CIK,Ticker,Name,Exchange
 0001550020,EWLL,Ewellness Healthcare Corp,OTC
 0001550453,TRIC,Trilinc Global Impact Fund Llc,OTC
 0001550453,TRLC,Trilinc Global Impact Fund Llc,OTC
-0001550695,PFMT,Performant Financial Corp,Nasdaq
+0001550695,PFMT,Performant Healthcare Inc,Nasdaq
 0001550913,MKZR,"Mackenzie Realty Capital, Inc.",Nasdaq
 0001551047,TIPLX,Bluerock Total Income (Plus) Real Estate Fund,Nasdaq
 0001551152,ABBV,Abbvie Inc.,NYSE
@@ -5536,6 +5588,7 @@ CIK,Ticker,Name,Exchange
 0001552198,WHF,"Whitehorse Finance, Inc.",Nasdaq
 0001552198,WHFCL,"Whitehorse Finance, Inc.",Nasdaq
 0001552275,SUN,Sunoco Lp,NYSE
+0001552358,CGSI,"Cgs International, Inc.",OTC
 0001552670,TAOP,Taoping Inc.,Nasdaq
 0001552797,DKL,"Delek Logistics Partners, Lp",NYSE
 0001552800,TTSH,"Tile Shop Holdings, Inc.",Nasdaq
@@ -5560,6 +5613,7 @@ CIK,Ticker,Name,Exchange
 0001554818,AUUD,Auddia Inc.,Nasdaq
 0001554818,AUUDW,Auddia Inc.,Nasdaq
 0001554859,SMLR,"Semler Scientific, Inc.",Nasdaq
+0001554906,CBCA,Crown Baus Capital Corp.,OTC
 0001555017,SKYI,"Sky Century Investment, Inc.",OTC
 0001555074,AAMCF,Altisource Asset Management Corp,OTC
 0001555214,WLYW,"Wally World Media, Inc",OTC
@@ -5583,6 +5637,7 @@ CIK,Ticker,Name,Exchange
 0001557746,ACRS,"Aclaris Therapeutics, Inc.",Nasdaq
 0001557798,CIIT,"Tianci International, Inc.",OTC
 0001557860,GLOB,Globant S.A.,NYSE
+0001558465,PGAS,"Petrogress, Inc",OTC
 0001558569,ISPC,Ispecimen Inc.,Nasdaq
 0001558583,FUVV,Arcimoto Inc,OTC
 0001558740,WNLV,Winvest Group Ltd,OTC
@@ -5591,6 +5646,7 @@ CIK,Ticker,Name,Exchange
 0001558924,PKKFF,Tenet Fintech Group Inc.,OTC
 0001559053,PRTA,Prothena Corp Public Ltd Co,Nasdaq
 0001559157,SSOK,"Sunstock, Inc.",OTC
+0001559172,DPWW,"Diego Pellicer Worldwide, Inc",OTC
 0001559356,BTAX,Biostax Corp.,OTC
 0001559432,TXO,"Txo Partners, L.P.",NYSE
 0001559444,FAURY,Forvia Se/Adr,OTC
@@ -5617,7 +5673,6 @@ CIK,Ticker,Name,Exchange
 0001561180,PQEFF,Petroteq Energy Inc.,OTC
 0001561550,DDOG,"Datadog, Inc.",Nasdaq
 0001561680,TPH,"Tri Pointe Homes, Inc.",NYSE
-0001561880,LEAI,"Legacy Education Alliance, Inc.",OTC
 0001561894,HASI,"Ha Sustainable Infrastructure Capital, Inc.",NYSE
 0001561921,TELA,"Tela Bio, Inc.",Nasdaq
 0001562051,NML,Neuberger Berman Energy Infrastructure & Income Fund Inc.,NYSE
@@ -5657,7 +5712,6 @@ CIK,Ticker,Name,Exchange
 0001566044,VYNE,Vyne Therapeutics Inc.,Nasdaq
 0001566243,ARAT,Arax Holdings Corp,OTC
 0001566388,DSL,Doubleline Income Solutions Fund,NYSE
-0001566469,NHIQ,"Nanthealth, Inc.",OTC
 0001566610,VERB,"Verb Technology Company, Inc.",Nasdaq
 0001566826,LGMK,"Logicmark, Inc.",Nasdaq
 0001567094,CNH,Cnh Industrial N.V.,NYSE
@@ -5760,6 +5814,7 @@ CIK,Ticker,Name,Exchange
 0001578453,DLNG-PB,Dynagas Lng Partners Lp,NYSE
 0001578732,MMI,"Marcus & Millichap, Inc.",NYSE
 0001578987,BANX,Arrowmark Financial Corp.,Nasdaq
+0001579026,TOWTF,Tower One Wireless Corp.,OTC
 0001579091,CART,Maplebear Inc.,Nasdaq
 0001579157,VNCE,Vince Holding Corp.,NYSE
 0001579214,EEX,"Emerald Holding, Inc.",NYSE
@@ -5844,7 +5899,7 @@ CIK,Ticker,Name,Exchange
 0001589149,GWAV,"Greenwave Technology Solutions, Inc.",Nasdaq
 0001589150,RGBP,Regen Biopharma Inc,OTC
 0001589150,RGBPP,Regen Biopharma Inc,OTC
-0001589361,WTRV,White River Energy Corp.,None
+0001589361,WTRV,White River Energy Corp.,OTC
 0001589526,BLBD,Blue Bird Corp,Nasdaq
 0001590364,FTAI,Ftai Aviation Ltd.,Nasdaq
 0001590364,FTAIM,Ftai Aviation Ltd.,Nasdaq
@@ -5864,6 +5919,7 @@ CIK,Ticker,Name,Exchange
 0001590895,CZR,"Caesars Entertainment, Inc.",Nasdaq
 0001590955,PAYC,"Paycom Software, Inc.",NYSE
 0001590976,MBUU,"Malibu Boats, Inc.",Nasdaq
+0001591165,IVRN,"Innoveren Scientific, Inc.",OTC
 0001591565,BLYQ,"Bally, Corp.",OTC
 0001591588,AMRK,"A-Mark Precious Metals, Inc.",Nasdaq
 0001591670,FPI,Farmland Partners Inc.,NYSE
@@ -5873,7 +5929,7 @@ CIK,Ticker,Name,Exchange
 0001591913,IPSI,"Innovative Payment Solutions, Inc.",OTC
 0001591956,ANY,Sphere 3D Corp.,Nasdaq
 0001592000,ENLC,"Enlink Midstream, Llc",NYSE
-0001592057,EVVAQ,Enviva Inc.,OTC
+0001592057,EVVAQ,"Enviva, Llc",OTC
 0001592386,VIRT,"Virtu Financial, Inc.",Nasdaq
 0001592438,ROYMF,Royal Mail Plc/Adr,OTC
 0001592438,ROYMY,Royal Mail Plc/Adr,OTC
@@ -5900,6 +5956,7 @@ CIK,Ticker,Name,Exchange
 0001595527,NYC,American Strategic Investment Co.,NYSE
 0001595761,WB,Weibo Corp,Nasdaq
 0001595974,MGNI,"Magnite, Inc.",Nasdaq
+0001596062,QBIO,Q Biomed Inc.,OTC
 0001596532,ANET,"Arista Networks, Inc.",NYSE
 0001596783,CTLT,"Catalent, Inc.",NYSE
 0001596812,ENLV,Enlivex Therapeutics Ltd.,Nasdaq
@@ -5951,10 +6008,11 @@ CIK,Ticker,Name,Exchange
 0001601830,RXRX,"Recursion Pharmaceuticals, Inc.",Nasdaq
 0001601936,CYTO,Altamira Therapeutics Ltd.,Nasdaq
 0001602065,VNOM,"Viper Energy, Inc.",Nasdaq
-0001602078,NMRD,Nemaura Medical Inc.,None
+0001602078,NMRD,Nemaura Medical Inc.,OTC
 0001602409,FNGR,"Fingermotion, Inc.",Nasdaq
 0001602584,CCD,Calamos Dynamic Convertible & Income Fund,Nasdaq
 0001602658,ISTR,Investar Holding Corp,Nasdaq
+0001602813,FRTG,Frontera Group Inc.,OTC
 0001602842,MOGO,Mogo Inc.,Nasdaq
 0001603016,HMLPF,Hoegh Lng Partners Lp,OTC
 0001603145,NEP,"Nextera Energy Partners, Lp",NYSE
@@ -5990,7 +6048,7 @@ CIK,Ticker,Name,Exchange
 0001605481,NGLD,Nevada Canyon Gold Corp.,OTC
 0001605484,STLA,Stellantis N.V.,NYSE
 0001605607,PGRE,"Paramount Group, Inc.",NYSE
-0001605888,ATLN,Atlantic International Corp.,OTC
+0001605888,ATLN,Atlantic International Corp.,Nasdaq
 0001605888,SQLLW,Atlantic International Corp.,OTC
 0001606163,LMB,"Limbach Holdings, Inc.",Nasdaq
 0001606268,VIASP,"Via Renewables, Inc.",Nasdaq
@@ -6021,6 +6079,7 @@ CIK,Ticker,Name,Exchange
 0001609711,GDDY,Godaddy Inc.,NYSE
 0001609804,OEC,Orion S.A.,NYSE
 0001609809,MCRB,"Seres Therapeutics, Inc.",Nasdaq
+0001609988,FLCX,Flooidcx Corp.,OTC
 0001610250,BOOT,"Boot Barn Holdings, Inc.",NYSE
 0001610520,UBS,Ubs Group Ag,NYSE
 0001610590,CHEK,Check-Cap Ltd,Nasdaq
@@ -6123,13 +6182,14 @@ CIK,Ticker,Name,Exchange
 0001622148,HGLB,Highland Global Allocation Fund,NYSE
 0001622194,DEA,"Easterly Government Properties, Inc.",NYSE
 0001622229,COGT,"Cogent Biosciences, Inc.",Nasdaq
+0001622231,BTIM,Boatim Inc.,OTC
 0001622244,OWPC,"One World Products, Inc.",OTC
 0001622345,POLA,"Polar Power, Inc.",Nasdaq
 0001622536,TLN,Talen Energy Corp,Nasdaq
 0001622879,SHWZ,"Medicine Man Technologies, Inc.",OTC
 0001623360,MRGE,Mirage Energy Corp,OTC
 0001623526,STOK,"Stoke Therapeutics, Inc.",Nasdaq
-0001623590,FINR,Fintech Scion Ltd,None
+0001623590,FINR,Fintech Scion Ltd,OTC
 0001623925,AM,Antero Midstream Corp,NYSE
 0001624140,COTI,"Coretag, Inc.",OTC
 0001624322,BFST,"Business First Bancshares, Inc.",Nasdaq
@@ -6239,7 +6299,7 @@ CIK,Ticker,Name,Exchange
 0001638097,ENTX,Entera Bio Ltd.,Nasdaq
 0001638287,MTVA,Metavia Inc.,Nasdaq
 0001638290,MCFT,"Mastercraft Boat Holdings, Inc.",Nasdaq
-0001638826,TTAN,"Servicetitan, Inc.",None
+0001638826,TTAN,"Servicetitan, Inc.",Nasdaq
 0001638833,SGRY,"Surgery Partners, Inc.",Nasdaq
 0001638911,DUKR,Duke Robotics Corp.,OTC
 0001639068,HBUV,Hubilu Venture Corp,OTC
@@ -6264,6 +6324,7 @@ CIK,Ticker,Name,Exchange
 0001641601,RVRF,River Financial Corp,OTC
 0001641614,PMTS,Cpi Card Group Inc.,Nasdaq
 0001641631,XAIR,"Beyond Air, Inc.",Nasdaq
+0001641640,NBRVF,Nabriva Therapeutics Plc,OTC
 0001642122,AC,"Associated Capital Group, Inc.",NYSE
 0001642159,SIGY,"Sigyn Therapeutics, Inc.",OTC
 0001642178,AGNPF,Algernon Pharmaceuticals Inc.,OTC
@@ -6350,8 +6411,9 @@ CIK,Ticker,Name,Exchange
 0001652535,ICHR,"Ichor Holdings, Ltd.",Nasdaq
 0001652539,SNRG,Susglobal Energy Corp.,OTC
 0001652561,DQWS,Dswiss Inc,OTC
+0001652866,ABILF,Ability Inc.,OTC
 0001652935,ACTU,"Actuate Therapeutics, Inc.",Nasdaq
-0001652958,EDGM,"Edgemode, Inc.",None
+0001652958,EDGM,"Edgemode, Inc.",OTC
 0001653087,ALEC,"Alector, Inc.",Nasdaq
 0001653242,NTB,Bank Of N.T. Butterfield & Son Ltd,NYSE
 0001653247,ASAPQ,Waitr Holdings Inc.,OTC
@@ -6362,6 +6424,7 @@ CIK,Ticker,Name,Exchange
 0001653482,GTLB,Gitlab Inc.,Nasdaq
 0001653558,PRTH,"Priority Technology Holdings, Inc.",Nasdaq
 0001653558,PRTHU,"Priority Technology Holdings, Inc.",OTC
+0001653606,EHVVF,"Ehave, Inc.",OTC
 0001653653,RRR,"Red Rock Resorts, Inc.",Nasdaq
 0001653821,CENBF,Cen Biotech Inc,OTC
 0001653909,BIRD,"Allbirds, Inc.",Nasdaq
@@ -6371,6 +6434,7 @@ CIK,Ticker,Name,Exchange
 0001654672,PNPL,"Pineapple, Inc.",OTC
 0001654795,BBU,Brookfield Business Partners L.P.,NYSE
 0001655050,BCSF,"Bain Capital Specialty Finance, Inc.",NYSE
+0001655075,AFIIQ,"Armstrong Flooring, Inc.",OTC
 0001655099,RA,Brookfield Real Assets Income Fund Inc.,NYSE
 0001655210,BYND,"Beyond Meat, Inc.",Nasdaq
 0001655759,ARVN,"Arvinas, Inc.",Nasdaq
@@ -6455,7 +6519,7 @@ CIK,Ticker,Name,Exchange
 0001668717,BUD,Anheuser-Busch Inbev Sa/Nv,NYSE
 0001668717,BUDFF,Anheuser-Busch Inbev Sa/Nv,OTC
 0001669162,KNSL,"Kinsale Capital Group, Inc.",NYSE
-0001669400,VFRM,"Veritas Farms, Inc.",None
+0001669400,VFRM,"Veritas Farms, Inc.",OTC
 0001669414,NHOLF,"Sompo Japan Nipponkoa Holdings, Inc./Adr",OTC
 0001669414,SMPNY,"Sompo Japan Nipponkoa Holdings, Inc./Adr",OTC
 0001669779,CWH,"Camping World Holdings, Inc.",NYSE
@@ -6575,6 +6639,7 @@ CIK,Ticker,Name,Exchange
 0001682639,EYEN,"Eyenovia, Inc.",Nasdaq
 0001682745,VRRM,Verra Mobility Corp,Nasdaq
 0001682852,MRNA,"Moderna, Inc.",Nasdaq
+0001683131,FORZ,Forza Innovations Inc,OTC
 0001683252,TKCM,Token Communities Ltd.,OTC
 0001683541,ACB,Aurora Cannabis Inc,Nasdaq
 0001683553,SPRB,"Spruce Biosciences, Inc.",Nasdaq
@@ -6678,6 +6743,7 @@ CIK,Ticker,Name,Exchange
 0001697818,ICLK,Iclick Interactive Asia Group Ltd,Nasdaq
 0001697851,REKR,"Rekor Systems, Inc.",Nasdaq
 0001697862,ARGX,Argenx Se,Nasdaq
+0001697935,MAPT,"Maptelligent, Inc.",OTC
 0001698022,FMFG,"Farmers & Merchants Bancshares, Inc.",OTC
 0001698514,NESR,National Energy Services Reunited Corp.,Nasdaq
 0001698514,NESRW,National Energy Services Reunited Corp.,Nasdaq
@@ -6767,7 +6833,6 @@ CIK,Ticker,Name,Exchange
 0001708259,LX,Lexinfintech Holdings Ltd.,Nasdaq
 0001708331,VRPX,"Virpax Pharmaceuticals, Inc.",Nasdaq
 0001708341,AGAE,Allied Gaming & Entertainment Inc.,Nasdaq
-0001708410,WINR,Simplicity Esports & Gaming Co,OTC
 0001708441,MYND,"Mynd.Ai, Inc.",NYSE
 0001708527,ELUT,Elutia Inc.,Nasdaq
 0001708599,SER,"Serina Therapeutics, Inc.",NYSE
@@ -6795,7 +6860,6 @@ CIK,Ticker,Name,Exchange
 0001711269,EVRG,"Evergy, Inc.",Nasdaq
 0001711279,KRYS,"Krystal Biotech, Inc.",Nasdaq
 0001711375,LOMA,Loma Negra Compania Industrial Argentina Sociedad Anonima,NYSE
-0001711570,URCWF,Uranium Royalty Corp.,OTC
 0001711570,UROY,Uranium Royalty Corp.,Nasdaq
 0001711754,INMB,"Inmune Bio, Inc.",Nasdaq
 0001711786,HOTH,"Hoth Therapeutics, Inc.",Nasdaq
@@ -6856,6 +6920,7 @@ CIK,Ticker,Name,Exchange
 0001718405,HYMCW,Hycroft Mining Holding Corp,Nasdaq
 0001718500,AXIL,"Axil Brands, Inc.",NYSE
 0001718512,GTES,Gates Industrial Corp Plc,NYSE
+0001718817,MSNVF,Mission Ready Solutions Inc,OTC
 0001718939,IDAI,T Stamp Inc,Nasdaq
 0001719406,NRXP,"Nrx Pharmaceuticals, Inc.",Nasdaq
 0001719406,NRXPW,"Nrx Pharmaceuticals, Inc.",Nasdaq
@@ -6872,7 +6937,6 @@ CIK,Ticker,Name,Exchange
 0001720635,NVT,Nvent Electric Plc,NYSE
 0001720671,HCP,"Hashicorp, Inc.",Nasdaq
 0001720893,BTAI,"Bioxcel Therapeutics, Inc.",Nasdaq
-0001721056,HSCT,Hoops Scouting Usa,OTC
 0001721386,LSEA,Landsea Homes Corp,Nasdaq
 0001721386,LSEAW,Landsea Homes Corp,Nasdaq
 0001721484,LGVN,Longeveron Inc.,Nasdaq
@@ -6975,6 +7039,7 @@ CIK,Ticker,Name,Exchange
 0001734750,MOVE,Movano Inc.,Nasdaq
 0001734768,IMVIF,Imv Inc.,OTC
 0001734875,MSVB,"Mid-Southern Bancorp, Inc.",OTC
+0001734902,WEIDY,Weidai Ltd.,OTC
 0001735041,GTEC,Greenland Technologies Holding Corp.,Nasdaq
 0001735041,GTECW,Greenland Technologies Holding Corp.,OTC
 0001735438,MGTX,Meiragtx Holdings Plc,Nasdaq
@@ -6989,11 +7054,13 @@ CIK,Ticker,Name,Exchange
 0001736541,NIO,Nio Inc.,NYSE
 0001736541,NIOIF,Nio Inc.,OTC
 0001736730,CAMP,Camp4 Therapeutics Corp,Nasdaq
+0001736865,DVLP,"Golden Developing Solutions, Inc.",OTC
 0001736946,ARLO,"Arlo Technologies, Inc.",NYSE
 0001737193,LDSN,Luduson G Inc.,OTC
 0001737270,NEXCF,Nextech3D.Ai Corp.,OTC
 0001737287,ALLO,"Allogene Therapeutics, Inc.",Nasdaq
 0001737339,JG,Aurora Mobile Ltd,Nasdaq
+0001737372,SYSX,"Sysorex, Inc.",OTC
 0001737450,OPRA,Opera Ltd,Nasdaq
 0001737523,BGLC,Bionexus Gene Lab Corp,Nasdaq
 0001737706,SDRL,Seadrill Ltd,NYSE
@@ -7138,6 +7205,7 @@ CIK,Ticker,Name,Exchange
 0001756390,AAWH,"Ascend Wellness Holdings, Inc.",OTC
 0001756404,PDSKX,Principal Real Asset Fund,Nasdaq
 0001756404,PDSRX,Principal Real Asset Fund,Nasdaq
+0001756499,MCLDF,Mcloud Technologies Corp.,OTC
 0001756594,IVA,Inventiva S.A.,Nasdaq
 0001756594,IVEVF,Inventiva S.A.,OTC
 0001756607,EQX,Equinox Gold Corp.,NYSE
@@ -7184,6 +7252,7 @@ CIK,Ticker,Name,Exchange
 0001760542,HOOK,Hookipa Pharma Inc.,Nasdaq
 0001760689,MVST,"Microvast Holdings, Inc.",Nasdaq
 0001760689,MVSTW,"Microvast Holdings, Inc.",Nasdaq
+0001760764,GMVDF,G Medical Innovations Holdings Ltd.,OTC
 0001760854,NBTX,Nanobiotix S.A.,Nasdaq
 0001760903,SHOT,"Safety Shot, Inc.",Nasdaq
 0001760903,SHOTW,"Safety Shot, Inc.",Nasdaq
@@ -7340,6 +7409,7 @@ CIK,Ticker,Name,Exchange
 0001781193,QH,Quhuo Ltd,Nasdaq
 0001781335,OTIS,Otis Worldwide Corp,NYSE
 0001781397,EEIQ,Epicquest Education Group International Ltd,Nasdaq
+0001781405,ODII,"Odyssey Semiconductor Technologies, Inc.",OTC
 0001781446,GAUZ,Gauzy Ltd.,Nasdaq
 0001781629,ANKM,"Ankam, Inc.",OTC
 0001781726,NPLS,Np Life Sciences Health Industry Group Inc.,OTC
@@ -7375,6 +7445,7 @@ CIK,Ticker,Name,Exchange
 0001784254,MDIA,Mediaco Holding Inc.,Nasdaq
 0001784440,NOTR,Nowtransit Inc,OTC
 0001784535,PRCH,"Porch Group, Inc.",Nasdaq
+0001784851,SHPWQ,"Shapeways Holdings, Inc.",OTC
 0001784970,NXTT,Next Technology Holding Inc.,Nasdaq
 0001785056,TRNR,"Interactive Strength, Inc.",Nasdaq
 0001785173,ETNB,"89Bio, Inc.",Nasdaq
@@ -7438,8 +7509,9 @@ CIK,Ticker,Name,Exchange
 0001790177,RFM,"Rivernorth Flexible Municipal Income Fund, Inc.",NYSE
 0001790320,MSTH,Mystic Holdings Inc./Nv,OTC
 0001790340,IMRX,Immuneering Corp,Nasdaq
-0001790515,EQOSQ,Eqonex Ltd,None
+0001790515,EQOSQ,Eqonex Ltd,OTC
 0001790625,AGILQ,"Agilethought, Inc.",OTC
+0001790665,GNRSQ,Greenrose Holding Co Inc.,OTC
 0001791325,FIGI,Freedom Internet Group Inc.,OTC
 0001791706,LAAOF,Li Auto Inc.,OTC
 0001791706,LI,Li Auto Inc.,Nasdaq
@@ -7576,6 +7648,7 @@ CIK,Ticker,Name,Exchange
 0001804745,DRVN,Driven Brands Holdings Inc.,Nasdaq
 0001805077,EOSE,"Eos Energy Enterprises, Inc.",Nasdaq
 0001805077,EOSEW,"Eos Energy Enterprises, Inc.",Nasdaq
+0001805087,GLSHQ,"Gelesis Holdings, Inc.",OTC
 0001805284,RKT,"Rocket Companies, Inc.",NYSE
 0001805385,EVLV,"Evolv Technologies Holdings, Inc.",Nasdaq
 0001805385,EVLVW,"Evolv Technologies Holdings, Inc.",Nasdaq
@@ -7593,7 +7666,6 @@ CIK,Ticker,Name,Exchange
 0001806524,LGHLW,Lion Group Holding Ltd,Nasdaq
 0001806837,VERX,"Vertex, Inc.",Nasdaq
 0001806904,EZGO,Ezgo Technologies Ltd.,Nasdaq
-0001806905,ALEH,Ale Group Holding Ltd,None
 0001806952,LYEL,"Lyell Immunopharma, Inc.",Nasdaq
 0001807046,OZ,"Belpointe Prep, Llc",NYSE
 0001807120,DSGN,"Design Therapeutics, Inc.",Nasdaq
@@ -7636,6 +7708,7 @@ CIK,Ticker,Name,Exchange
 0001809750,EDBLW,Edible Garden Ag Inc,Nasdaq
 0001809987,MIR,"Mirion Technologies, Inc.",NYSE
 0001810019,RXT,"Rackspace Technology, Inc.",Nasdaq
+0001810140,POLCQ,Polished.Com Inc.,OTC
 0001810182,ALXO,Alx Oncology Holdings Inc,Nasdaq
 0001810467,SNTG,Sentage Holdings Inc.,Nasdaq
 0001810523,FTHY,First Trust High Yield Opportunities 2027 Term Fund,NYSE
@@ -7648,11 +7721,13 @@ CIK,Ticker,Name,Exchange
 0001811063,NUVB,Nuvation Bio Inc.,NYSE
 0001811063,NUVB-WT,Nuvation Bio Inc.,NYSE
 0001811074,TPL,Texas Pacific Land Corp,NYSE
+0001811109,AUVIQ,"Applied Uv, Inc.",OTC
 0001811115,RNLXY,Renalytix Plc,OTC
 0001811115,RTNXF,Renalytix Plc,OTC
 0001811210,LCID,"Lucid Group, Inc.",Nasdaq
 0001811216,BAOS,Baosheng Media Group Holdings Ltd,Nasdaq
 0001811414,QS,Quantumscape Corp,NYSE
+0001811530,NXMH,"Next Meats Holdings, Inc.",OTC
 0001811623,PXMD,"Paxmedica, Inc.",OTC
 0001811999,FMHS,"Farmhouse, Inc. /Nv",OTC
 0001812173,RBOT,Vicarious Surgical Inc.,NYSE
@@ -7695,7 +7770,7 @@ CIK,Ticker,Name,Exchange
 0001815779,HAFN,Hafnia Ltd,NYSE
 0001815846,MNSO,Miniso Group Holding Ltd,NYSE
 0001815846,MSOGF,Miniso Group Holding Ltd,OTC
-0001815849,ATIP,"Ati Physical Therapy, Inc.",NYSE
+0001815849,ATIP,"Ati Physical Therapy, Inc.",OTC
 0001815849,ATIPW,"Ati Physical Therapy, Inc.",OTC
 0001815903,PTPI,"Petros Pharmaceuticals, Inc.",Nasdaq
 0001815974,ANEB,"Anebulo Pharmaceuticals, Inc.",Nasdaq
@@ -7816,7 +7891,6 @@ CIK,Ticker,Name,Exchange
 0001821769,NVTS,Navitas Semiconductor Corp,Nasdaq
 0001821806,LESL,"Leslie'S, Inc.",Nasdaq
 0001821825,OGN,Organon & Co.,NYSE
-0001821866,BTQQF,Sonora Gold & Silver Corp.,OTC
 0001822145,PRST,Presto Automation Inc.,OTC
 0001822145,PRSTW,Presto Automation Inc.,OTC
 0001822250,LOGC,Contextlogic Inc.,Nasdaq
@@ -7834,7 +7908,7 @@ CIK,Ticker,Name,Exchange
 0001822966,SMR-WT,Nuscale Power Corp,NYSE
 0001822993,JXN,Jackson Financial Inc.,NYSE
 0001822993,JXN-PA,Jackson Financial Inc.,NYSE
-0001823000,CNXX,Conx Corp.,None
+0001823000,CNXX,Conx Corp.,OTC
 0001823144,CMPO,"Composecure, Inc.",Nasdaq
 0001823144,CMPOW,"Composecure, Inc.",Nasdaq
 0001823239,MRVI,"Maravai Lifesciences Holdings, Inc.",Nasdaq
@@ -7859,7 +7933,6 @@ CIK,Ticker,Name,Exchange
 0001823878,MYPSW,"Playstudios, Inc.",Nasdaq
 0001823945,OWL,Blue Owl Capital Inc.,NYSE
 0001823986,WDH,Waterdrop Inc.,NYSE
-0001824036,IDXAD,Idex Biometrics Asa,OTC
 0001824204,PVOZ,Park View Oz Reit Inc,OTC
 0001824293,GRI,"Gri Bio, Inc.",Nasdaq
 0001824403,RSVR,"Reservoir Media, Inc.",Nasdaq
@@ -7934,7 +8007,7 @@ CIK,Ticker,Name,Exchange
 0001828791,DSP,Viant Technology Inc.,Nasdaq
 0001828805,ALMU,"Aeluma, Inc.",OTC
 0001828811,LICY,Li-Cycle Holdings Corp.,NYSE
-0001828852,MOND,"Mondee Holdings, Inc.",Nasdaq
+0001828852,MOND,"Mondee Holdings, Inc.",OTC
 0001828937,FOA,Finance Of America Companies Inc.,NYSE
 0001828937,FOACW,Finance Of America Companies Inc.,OTC
 0001828962,CRCT,"Cricut, Inc.",Nasdaq
@@ -7969,6 +8042,7 @@ CIK,Ticker,Name,Exchange
 0001830214,DNA,"Ginkgo Bioworks Holdings, Inc.",NYSE
 0001830214,DNABW,"Ginkgo Bioworks Holdings, Inc.",OTC
 0001830487,PHVS,Pharvaris N.V.,Nasdaq
+0001830503,BZWR,Business Warrior Corp,OTC
 0001830696,GLCP,Global Leaders Corp,OTC
 0001830749,ACHL,Achilles Therapeutics Plc,Nasdaq
 0001831006,BLUAF,Blueriver Acquisition Corp.,OTC
@@ -7995,6 +8069,7 @@ CIK,Ticker,Name,Exchange
 0001831874,IRAAW,Iris Acquisition Corp,OTC
 0001831907,MYTE,Myt Netherlands Parent B.V.,NYSE
 0001831915,CTKB,"Cytek Biosciences, Inc.",Nasdaq
+0001831978,NBST,Newbury Street Acquisition Corp,OTC
 0001831979,SDST,Stardust Power Inc.,Nasdaq
 0001831979,SDSTW,Stardust Power Inc.,Nasdaq
 0001832038,IVVD,"Invivyd, Inc.",Nasdaq
@@ -8018,6 +8093,7 @@ CIK,Ticker,Name,Exchange
 0001833769,HYPR,"Hyperfine, Inc.",Nasdaq
 0001833835,PSFE,Paysafe Ltd,NYSE
 0001833835,PSFE-WT,Paysafe Ltd,NYSE
+0001833908,ALFIQ,"Alfi, Inc.",OTC
 0001834026,GROY,Gold Royalty Corp.,NYSE
 0001834026,GROY-WT,Gold Royalty Corp.,NYSE
 0001834032,CSTAF,Constellation Acquisition Corp I,OTC
@@ -8058,7 +8134,6 @@ CIK,Ticker,Name,Exchange
 0001835654,INVZ,Innoviz Technologies Ltd.,Nasdaq
 0001835654,INVZW,Innoviz Technologies Ltd.,Nasdaq
 0001835724,ZH,Zhihu Inc.,NYSE
-0001835817,NSTC,Northern Star Investment Corp. Iii,OTC
 0001835830,KVYO,"Klaviyo, Inc.",NYSE
 0001835856,BETR,Better Home & Finance Holding Co,Nasdaq
 0001835856,BETRW,Better Home & Finance Holding Co,Nasdaq
@@ -8127,6 +8202,7 @@ CIK,Ticker,Name,Exchange
 0001839586,DMXCF,District Metals Corp.,OTC
 0001839608,GETR,"Getaround, Inc",OTC
 0001839608,GETRW,"Getaround, Inc",OTC
+0001839730,SLHGF,Skylight Health Group Inc.,OTC
 0001839799,GAMB,Gambling.Com Group Ltd,Nasdaq
 0001839839,JBI,"Janus International Group, Inc.",NYSE
 0001839998,AONC,"American Oncology Network, Inc.",OTC
@@ -8149,7 +8225,8 @@ CIK,Ticker,Name,Exchange
 0001840502,TBLA,Taboola.Com Ltd.,Nasdaq
 0001840502,TBLAW,Taboola.Com Ltd.,Nasdaq
 0001840563,ELAB,Elevai Labs Inc.,Nasdaq
-0001840572,BOWL,Bowlero Corp.,NYSE
+0001840572,BOWL,Lucky Strike Entertainment Corp,NYSE
+0001840572,LUCK,Lucky Strike Entertainment Corp,NYSE
 0001840574,VERV,"Verve Therapeutics, Inc.",Nasdaq
 0001840616,NFGC,New Found Gold Corp.,NYSE
 0001840706,SOPH,Sophia Genetics Sa,Nasdaq
@@ -8622,7 +8699,7 @@ CIK,Ticker,Name,Exchange
 0001863218,SFWL,Shengfeng Development Ltd,Nasdaq
 0001863362,PROC,"Procaps Group, S.A.",Nasdaq
 0001863362,PROCW,"Procaps Group, S.A.",Nasdaq
-0001863719,MNTN,Everest Consolidator Acquisition Corp,NYSE
+0001863719,MNTN,Everest Consolidator Acquisition Corp,OTC
 0001863934,ADUR,Aduro Clean Technologies Inc.,Nasdaq
 0001863990,MSAI,"Multisensor Ai Holdings, Inc.",Nasdaq
 0001863990,MSAIW,"Multisensor Ai Holdings, Inc.",Nasdaq
@@ -8678,6 +8755,7 @@ CIK,Ticker,Name,Exchange
 0001866226,WTMAR,Welsbach Technology Metals Acquisition Corp.,Nasdaq
 0001866226,WTMAU,Welsbach Technology Metals Acquisition Corp.,Nasdaq
 0001866368,CWAN,"Clearwater Analytics Holdings, Inc.",NYSE
+0001866390,BBLNF,Babylon Holdings Ltd,OTC
 0001866501,WBX,Wallbox N.V.,NYSE
 0001866501,WBX-WT,Wallbox N.V.,NYSE
 0001866581,BROS,Dutch Bros Inc.,NYSE
@@ -8827,6 +8905,7 @@ CIK,Ticker,Name,Exchange
 0001877557,WEL-UN,Integrated Wellness Acquisition Corp,NYSE
 0001877557,WEL-WT,Integrated Wellness Acquisition Corp,NYSE
 0001877787,ZGN,Ermenegildo Zegna N.V.,NYSE
+0001877788,CSTF,Curascientific Corp.,OTC
 0001877939,CTM,"Castellum, Inc.",NYSE
 0001878057,SGHC,Super Group (Sghc) Ltd,NYSE
 0001878313,MAIA,"Maia Biotechnology, Inc.",NYSE
@@ -8846,8 +8925,7 @@ CIK,Ticker,Name,Exchange
 0001879726,SIDU,Sidus Space Inc.,Nasdaq
 0001879754,EHGO,Eshallgo Inc.,Nasdaq
 0001879814,TLGY,Tlgy Acquisition Corp,Nasdaq
-0001879814,TLGYF,Tlgy Acquisition Corp,None
-0001879814,TLGYU,Tlgy Acquisition Corp,Nasdaq
+0001879814,TLGYF,Tlgy Acquisition Corp,OTC
 0001879814,TLGYW,Tlgy Acquisition Corp,Nasdaq
 0001879848,PEV,Phoenix Motor Inc.,Nasdaq
 0001880189,SLRA,Solera Corp.,None
@@ -8871,15 +8949,12 @@ CIK,Ticker,Name,Exchange
 0001881741,AOGO,Arogo Capital Acquisition Corp.,OTC
 0001881767,SSCC,Spirits Capital Corp,OTC
 0001882198,ATEK,Athena Technology Acquisition Corp. Ii,NYSE
-0001882198,ATEK-UN,Athena Technology Acquisition Corp. Ii,NYSE
-0001882198,ATEK-WT,Athena Technology Acquisition Corp. Ii,NYSE
 0001882464,MSSA,Metal Sky Star Acquisition Corp,Nasdaq
 0001882464,MSSAR,Metal Sky Star Acquisition Corp,Nasdaq
 0001882464,MSSAU,Metal Sky Star Acquisition Corp,Nasdaq
 0001882464,MSSAW,Metal Sky Star Acquisition Corp,Nasdaq
 0001882781,CBLO,"C2 Blockchain,Inc.",OTC
 0001882839,WONDF,Wonderfi Technologies Inc.,OTC
-0001883083,GPLL,"Gpl Holdings, Inc.",OTC
 0001883085,PGY,Pagaya Technologies Ltd.,Nasdaq
 0001883085,PGYWW,Pagaya Technologies Ltd.,Nasdaq
 0001883313,SVV,"Savers Value Village, Inc.",NYSE
@@ -9127,6 +9202,7 @@ CIK,Ticker,Name,Exchange
 0001908054,JETR,Star Jets International Inc.,OTC
 0001908705,GLE,Global Engine Group Holding Ltd,Nasdaq
 0001908984,ENDI,Endi Corp.,OTC
+0001909152,KALRQ,Kalera Public Ltd Co,OTC
 0001909747,JUSHF,Jushi Holdings Inc.,OTC
 0001909770,KHOB,Kheoba Corp.,OTC
 0001910139,MBLY,Mobileye Global Inc.,Nasdaq
@@ -9146,7 +9222,8 @@ CIK,Ticker,Name,Exchange
 0001913577,DECAW,Denali Capital Acquisition Corp.,Nasdaq
 0001913749,GMM,Global Mofy Ai Ltd,Nasdaq
 0001913838,VWFB,"Vwf Bancorp, Inc.",OTC
-0001913847,CNCK,Coincheck Group B.V.,None
+0001913847,CNCK,Coincheck Group N.V.,Nasdaq
+0001913847,CNCKW,Coincheck Group N.V.,Nasdaq
 0001913971,BPRN,"Princeton Bancorp, Inc.",Nasdaq
 0001914605,ECBK,"Ecb Bancorp, Inc. /Md/",Nasdaq
 0001914805,BANL,Cbl International Ltd,Nasdaq
@@ -9200,6 +9277,7 @@ CIK,Ticker,Name,Exchange
 0001926314,OCAC,Ocean Capital Acquisition Corp,None
 0001926599,TDAC,Translational Development Acquisition Corp.,None
 0001926792,SFHG,Samfine Creation Holdings Group Ltd,Nasdaq
+0001927077,SNHO,Shonghoya International Group Inc.,OTC
 0001927578,NTCL,Netclass Technology Inc,None
 0001927719,CRGO,Freightos Ltd,Nasdaq
 0001927719,CRGOW,Freightos Ltd,Nasdaq
@@ -9286,6 +9364,7 @@ CIK,Ticker,Name,Exchange
 0001941506,ZJK,"Zjk Industrial Co., Ltd.",Nasdaq
 0001941536,BAER,"Bridger Aerospace Group Holdings, Inc.",Nasdaq
 0001941536,BAERW,"Bridger Aerospace Group Holdings, Inc.",Nasdaq
+0001942808,EGOXF,Next.E.Go N.V.,OTC
 0001943289,SVCO,"Silvaco Group, Inc.",Nasdaq
 0001943444,TRSG,Tungray Technologies Inc,Nasdaq
 0001943705,GEAR,"Revelyst, Inc.",NYSE
@@ -9342,7 +9421,7 @@ CIK,Ticker,Name,Exchange
 0001948455,ISPR,Ispire Technology Inc.,Nasdaq
 0001948697,SPPL,Simpple Ltd.,Nasdaq
 0001948864,HCWC,Healthy Choice Wellness Corp.,NYSE
-0001948884,GPAK,Gamer Pakistan Inc,None
+0001948884,GPAK,Gamer Pakistan Inc,OTC
 0001949257,RADX,Radiopharm Theranostics Ltd,Nasdaq
 0001949478,DTCK,Davis Commodities Ltd,Nasdaq
 0001949543,STR,Sitio Royalties Corp.,NYSE
@@ -9368,7 +9447,6 @@ CIK,Ticker,Name,Exchange
 0001953530,OCSAW,Oculis Holding Ag,Nasdaq
 0001953575,CNL,Collective Mining Ltd.,NYSE
 0001953588,PAAND,Pan American Energy Corp. (Canada),OTC
-0001953588,PAANF,Pan American Energy Corp. (Canada),None
 0001953926,ZBIO,"Zenas Biopharma, Inc.",Nasdaq
 0001953984,BCG,"Binah Capital Group, Inc.",Nasdaq
 0001953984,BCGWW,"Binah Capital Group, Inc.",Nasdaq
@@ -9500,6 +9578,7 @@ CIK,Ticker,Name,Exchange
 0001970743,RMXI,"Reticulate Micro, Inc.",OTC
 0001971115,RYDE,Ryde Group Ltd,NYSE
 0001971213,SBGI,"Sinclair, Inc.",Nasdaq
+0001971260,CLDVD,Web3 Ventures Inc.,OTC
 0001971260,CLDVF,Web3 Ventures Inc.,OTC
 0001971387,LIMN,Iris Parent Holding Corp.,None
 0001971532,TELO,"Telomir Pharmaceuticals, Inc.",Nasdaq
@@ -9603,6 +9682,7 @@ CIK,Ticker,Name,Exchange
 0001988776,MRNO,Murano Global Investments Plc,Nasdaq
 0001988776,MRNOW,Murano Global Investments Plc,Nasdaq
 0001988894,AS,"Amer Sports, Inc.",NYSE
+0001989464,NXGB,"Nxgen Brands, Inc.",OTC
 0001989788,GAFC,Guru App Factory Corp,OTC
 0001989930,FGL,Founder Group Ltd,Nasdaq
 0001990145,NUVOQ,Holdco Nuvo Group D.G Ltd.,OTC
@@ -9763,6 +9843,7 @@ CIK,Ticker,Name,Exchange
 0002012964,AAM-UN,Aa Mission Acquisition Corp.,NYSE
 0002012964,AAM-WT,Aa Mission Acquisition Corp.,NYSE
 0002013186,TNMG,Tnl Mediagene,Nasdaq
+0002013186,TNMWF,Tnl Mediagene,OTC
 0002013320,ELOG,Eastern International Ltd.,None
 0002013639,FBLA,"Fb Bancorp, Inc. /Md/",Nasdaq
 0002013744,ETHW,Bitwise Ethereum Etf,NYSE
@@ -9832,7 +9913,6 @@ CIK,Ticker,Name,Exchange
 0002021364,NCG,Htl Capital Ltd.,None
 0002021688,UFG,Uni-Fuels Holdings Ltd,None
 0002021728,CBRS,Cerebras Systems Inc.,None
-0002021880,HMHW,Hmh Holding Inc,None
 0002021938,SNRE,Sunrise Communications Ag,Nasdaq
 0002022308,KIDZ,"Classover Holdings, Inc.",None
 0002022416,SLXN,Silexion Therapeutics Corp,Nasdaq
@@ -9859,6 +9939,7 @@ CIK,Ticker,Name,Exchange
 0002024459,CHAR,Charlton Aria Acquisition Corp,Nasdaq
 0002024459,CHARR,Charlton Aria Acquisition Corp,Nasdaq
 0002024459,CHARU,Charlton Aria Acquisition Corp,Nasdaq
+0002024460,CHPG,Championsgate Acquisition Corp,None
 0002024656,FMFC,Kandal M Venture Ltd,None
 0002024899,MFBI,"Monroe Federal Bancorp, Inc.",OTC
 0002025049,AURS,Aurous Resources,None
@@ -9884,8 +9965,8 @@ CIK,Ticker,Name,Exchange
 0002028027,NTWOU,Newbury Street Ii Acquisition Corp,Nasdaq
 0002028201,COLA,Columbus Acquisition Corp/Cayman Islands,None
 0002028293,RAIN,"Rain Enhancement Technologies Holdco, Inc.",None
-0002028336,NEHC,"Roth Ch V Holdings, Inc.",Nasdaq
-0002028336,NEHCW,"Roth Ch V Holdings, Inc.",Nasdaq
+0002028336,NEHC,New Era Helium Inc.,Nasdaq
+0002028336,NEHCW,New Era Helium Inc.,Nasdaq
 0002028516,ATII,Archimedes Tech Spac Partners Ii Co.,None
 0002028614,DMAA,Drugs Made In America Acquisition Corp.,None
 0002028699,DYNX,Dynamix Corp,Nasdaq
